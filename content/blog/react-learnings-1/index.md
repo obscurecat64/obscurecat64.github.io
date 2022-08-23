@@ -1,13 +1,11 @@
 ---
-title: Don't do this!
+title: Functional components inside render?
 date: "2022-01-20T14:39:09.132Z"
 ---
 
-Hi :)
+For this post I'd to share why you should probably not define (and use) functional components inside `render()`.
 
-For this post I'd to share what you should probably not do which is to define (and use) functional components inside `render()`.
-
-Today Gan and I were discussing whether or not it is okay to write code like this:
+So let's start by asking ourselves if it is okay to write code like this:
 
 ```
 const App = () => {
@@ -36,7 +34,7 @@ const App = () => {
 }
 ```
 
-You could do this too
+You could do this too:
 
 ```
 const App = () => {
@@ -48,9 +46,9 @@ const App = () => {
 }
 ```
 
-but perhaps for code readability reasons you might want to consider the former.
+But sometimes for code readability reasons you might want the former.
 
-So... it should be fine defining functions that return `JSX.Element`s in a component, but what about the following?
+So... it is totally okay to define functions that return `JSX.Element`s in a component, but what about the following?
 
 ```
 const App = () => {
@@ -64,7 +62,7 @@ const App = () => {
 }
 ```
 
-At first glance, I'd say they look quite similar. `renderContentA` is now renamed to `ComponentA`, but that's just a name change. The real difference is in the return statement where instead of `renderContentA()` it is now `<ComponentA />`. And it is a huge difference!
+At first glance, they might look quite similar. `renderContentA` is now renamed to `ComponentA`, but that's just a name change. The real difference is in the return statement where instead of `renderContentA()` it is now `<ComponentA />`. And it is a huge difference!
 
 We first need to understand what `<ComponentA />` means. From the React docs:
 
@@ -84,9 +82,9 @@ const App = () => {
 };
 ```
 
-Let's look at what's different between 2 renders. An important thing to note here is that in each render, `ComponentA` is recreated. That means that between the two renders, the **identity** of `ComponentA` is not stable, that is `ComponentA` in the first render is `!==` `ComponentA` in the second render. Why is that so? Well that's just how Javascript works!
+Let's look at what's different between the 2 renders. An important thing to note here is that in each render, `ComponentA` is recreated. That means that between the two renders, the **identity** of `ComponentA` is not stable, that is `ComponentA` in the first render is `!==` `ComponentA` in the second render. Why is that so? That's just how Javascript works!
 
-Now, during the [reconcillation](https://reactjs.org/docs/reconciliation.html) phase, React tries to figure out what has changed between the 2 renders, in order to update the UI to the most recent tree (of React elements from the latest render). What we have to know here is that for [elements of different types](https://reactjs.org/docs/reconciliation.html#elements-of-different-types), React will tear down the old tree and build the new tree from scratch. As we've discussed, since our `ComponentA`'s identity is not stable, React **will** treat it as they are elements of different types, and build the new tree from scratch. That is why you really shouldn't do this.
+Now, during the [reconcillation](https://reactjs.org/docs/reconciliation.html) phase, React attempts to figure out what has changed between the 2 renders in order to update the UI to the most recent tree (of React elements from the latest render). What we have to know here is that for [elements of different types](https://reactjs.org/docs/reconciliation.html#elements-of-different-types), React will tear down the old tree and build the new tree from scratch. As we've discussed, since our `ComponentA`'s identity is not stable, React **will** treat it as they are elements of different types, and build the new tree from scratch. That is why you really shouldn't do this.
 
 To fix this we can simply lift the definition of `ComponentA` out of `App`.
 
@@ -116,10 +114,14 @@ const App = () => {
 
 Notice that no `React.createElement(ComponentA, ...)` or the likes of it is formed here. This is why we do not get the same issue as when using `<ComponentA />`.
 
-I'd also like to add that it's not just a performance thing, and we can demonstrate it with this example [here](https://codesandbox.io/s/optimistic-ully-z92j1?from-embed). Try incrementing `ComponentA`'s state via `Component A button`, then try having `App` rerender by clicking on `App button`. You should see that the state of `ComponentA` is lost everytime `App` rerenders. Now try lifting `ComponentA` out of `App`. Everything should work as expected now.
+I'd also like to add that this does not only affect performance. I provided this example [here](https://codesandbox.io/s/optimistic-ully-z92j1?from-embed) to demonstrate how you can lose state when defining functional components inside render.
+
+First, try incrementing `ComponentA`'s state via `Component A button` and have `App` rerender by clicking on `App button`. You should see that the state of `ComponentA` is lost everytime `App` rerenders. When the old tree is torn down, its state is lost too.
+
+Now, try lifting `ComponentA` out of `App`. You should now see that the state is preserved when `App` rerenders, which is what we expect!
 
 And that's all I have to share for today! It was for me, quite interesting experimenting with the different results and behaviour between invoking a function (`renderContentA()`) and using JSX (`<ComponentA />`).
 
-If you've read this I thank you very much and I hope you learnt something from this too! If you noticed an error in my explanation or any gaps in my understading, or if you simply have some feedback, feel free to drop me an email at wailun18b@gmail.com.
+If you've reach here I thank you very much and I hope you learnt something from this too! If you noticed an error in my explanation or any gaps in my understanding, or if you simply have some feedback, feel free to drop me an email at wailun22b@gmail.com.
 
 Thanks and check back soon again!
