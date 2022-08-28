@@ -25,11 +25,11 @@ const Bio = () => {
         className={bioAvatar}
         layout="fixed"
         formats={["auto", "webp", "avif"]}
-        src="../images/profile-pic.jpeg"
+        src="../images/me.jpg"
         width={75}
         height={75}
         quality={95}
-        alt="Profile picture"
+        alt="Me"
       />
       {author?.name && (
         <p>

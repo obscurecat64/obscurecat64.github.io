@@ -3,7 +3,7 @@ module.exports = {
     title: `Wai Thoughts`,
     author: {
       name: `Wai Lun`,
-      summary: `Junior frontend developer from Singapore`,
+      summary: `Frontend developer from Singapore`,
     },
     description: `My blog on tech and life`,
     siteUrl: `https://waithoughts.gatsbyjs.io/`,
