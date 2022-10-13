@@ -20,18 +20,24 @@ I don't think this is a very controversial list; most people can agree that thes
 ##### Editing
 If you don't already know how to edit in Vim, `vimtutor` is a program that'll get you up to speed. Simply type `vimtutor` in your command line, and then press `enter`. Then come back after you've finished the tutorial :joy:.
 
+![vimtutor](./vimtutor.png)
+
 
 ##### Browsing Files
 Vim has it's own built-in file explorer, `Netrw`. There are definitely other more popular options that you can use such as `NERDTree`, but let's not think about plugins for now. My personal preference is also to keep my Vim setup simple, so I stuck with the default `Netrw` :smile:.
 
-In Vim, you can use the `:Explore` (or `:Ex` or `:E`, as long as it is not amibiguous to Vim) command to open the `Netrw` directory listing. Use `-` and `enter` to navigate up and down folder levels respectively, and open files using `enter`. You can create a file/folder using `%` and `d` respectively, delete a file using `D`... But these aren't so important.
+In Vim, you can use the `:Explore` (or `:Ex` or `:E`, as long as it is not amibiguous to Vim) command to open the `Netrw` directory listing. Use `-` and `enter` to navigate up and down folder levels respectively, and open files using `enter`. You can create a file/folder using `%` and `d` respectively, delete a file using `D`...
 
-You see, the trick to learning Vim is not to overwhelm yourself by trying to remember all of the keys at once. Just google it when you need it and I promise it'll come naturally to you; the ones that you use the most will be the one that you'll remember for the next time round, and the ones that you use once in a blue moon you'll find that you'll be content with just googling them everytime :smile:. In fact, I believe this is what makes a Vim user productive; you are disallowed a mouse to perform actions and are forced to use a keyboard command instead. And if you've ever played Starcraft you'll know hotkeys beats mouse actions almost(?) everytime :joy:.
+![Vim keybindings meme](./vim-keybindings.png)
+
+Don't actually force yourself to memorise all the keybindings! You see, the trick to learning Vim is not to overwhelm yourself by trying to remember all of the keys at once. Just google it when you need it and I promise it'll come naturally to you; the ones that you use the most will be the one that you'll remember for the next time round, and the ones that you use once in a blue moon you'll find that you'll be content with just googling them everytime :smile:. In fact, I believe this is what makes a Vim user productive; you are disallowed a mouse to perform actions and are forced to use a keyboard command instead. And if you've ever played Starcraft you'll know hotkeys beats mouse actions almost(?) everytime :joy:.
 
 ##### Opening multiple files in windows and tabs
 Now that you rre able to browse and edit files, let's move on to the coolest part of Vim in my opinion: windows and tabs! Let's start with windows.
 
 In Vim, there is a concept known as "buffers" which are really your files, and you view buffers through windows. You can open windows in Vim using certain commands such as `:vsplit` (or `:vs`) and `:split` (or `:spl`). They "split" the screen vertically (hence the "v" in `:vs`) or horizontally. Once you've got multiple windows, you can switch between the windows using `CTRL-W` + `h`/`j`/`k`/`l` (the latter part gives the direction, and should be intuitive to you if you've gone through part 1). When in a window, you can always use the `:Ex` command to open up the file explorer to bring up a new file for editing, and this is how you can have multiple files in different windows ready for editing! If you want go faster, you can even use the commands `:Vexplore` (or `:Vex`) and `Sexplore` (or `:Sex` :see_no_evil:) to split the screen and open up `Netrw` for you!
+
+![Vim split windows](./split-windows.png)
 
 Now let's move on to tabs. In all honesty, if you're starting out with Vim I think you can probably do without tabs (windows will work wonders for you already). My understanding of how to use tabs is to see it as having a new **view**, without messing up your previous window setup. Imagine you have your windows all setup nicely for editing, and you just have to view a file some place else because your colleague is asking your some question about that file. Instead of messing up your perfect window setup, you can open a new tab, navigate to that file, do whatever you need to do there and tab back to your perfect setup. That's what tabs can offer you in Vim, and (forgive me if I'm wrong but) not many editors give you the flexibility of windows + tabs like Vim does. And that makes Vim really awesome I feel!
 
