@@ -6,7 +6,7 @@ module.exports = {
       summary: `Frontend developer from Singapore`,
     },
     description: `My blog on tech and life`,
-    siteUrl: `https://waithoughts.gatsbyjs.io/`,
+    siteUrl: `https://www.wai-thoughts.com`,
   },
   plugins: [
     `gatsby-plugin-image`,
