@@ -5,6 +5,7 @@ import { postListItem } from "./index.module.css"
 import Bio from "../components/bio"
 import Layout from "../components/layout"
 import Seo from "../components/seo"
+import Tag from "../components/tag"
 
 const BlogIndex = ({ data, location }) => {
   const siteTitle = data.site.siteMetadata?.title || `Title`
@@ -46,6 +47,11 @@ const BlogIndex = ({ data, location }) => {
                     </Link>
                   </h2>
                   <small>{post.frontmatter.date}</small>
+                  <small>
+                    {post.frontmatter.tags?.map(tag => (
+                      <Tag title={tag} />
+                    ))}
+                  </small>
                 </header>
                 <section>
                   <p
@@ -83,6 +89,7 @@ export const pageQuery = graphql`
           date(formatString: "MMMM DD, YYYY")
           title
           description
+          tags
         }
       }
     }

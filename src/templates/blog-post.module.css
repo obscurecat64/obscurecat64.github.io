@@ -5,6 +5,7 @@
 .blog-post header p {
   font-size: var(--fontSize-2);
   font-family: var(--font-heading);
+  margin: 0;
 }
 
 .blog-post-nav ul {

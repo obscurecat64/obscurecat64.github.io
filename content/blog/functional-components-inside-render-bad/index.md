@@ -1,6 +1,7 @@
 ---
 title: Functional components inside render?
 date: "2022-01-20T14:39:09.132Z"
+tags: ["tech", "react"]
 ---
 
 For this post I'd to share why you should probably not define (and use) functional components inside `render()`.

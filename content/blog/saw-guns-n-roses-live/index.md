@@ -1,6 +1,7 @@
 ---
 title: I went to see Guns N' Roses live!
 date: "2022-12-04T10:02:03.845Z"
+tags: ["life", "concert"]
 ---
 
 I went to the Guns N' Roses Concert at the National Stadium! It was my first ever concert and I really enjoyed myself :smile:! I was initially really nervous as it was my first time going to a concert (much less alone) and I didn't know if there were any "concert etiquette". I was actually there really early and I could have gotten a better view if I had moved in before the other concert goers started streaming in! I didn't know what I was thinking, but I guess it also had to do with me feeling a bit self-conscious going alone when everyone had someone else :joy:. I still have to work on not caring so much about what others think of me moving forward!

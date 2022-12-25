@@ -1,0 +1,8 @@
+.tag {
+  font-family: initial;
+  font-size: 12px;
+  cursor: default;
+  padding: 0 4px;
+  margin: 0 4px;
+  border-radius: 4px;
+}

@@ -1,6 +1,7 @@
 ---
 title: Hello World!
 date: "2022-01-01T04:24:52.745Z"
+tags: ["life", "tech"]
 ---
 
 Happy new year! I've been wanting to start a simple blog to write about my tech learnings and life, so here it is!

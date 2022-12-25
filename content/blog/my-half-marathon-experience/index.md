@@ -1,6 +1,7 @@
 ---
 title: My SCSM 2022 half marathon experience
 date: "2022-12-25T15:02:00.070Z"
+tags: ["life", "running"]
 ---
 
 Merry Christmas!

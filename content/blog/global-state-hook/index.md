@@ -1,6 +1,7 @@
 ---
 title: A global state hook
 date: "2022-08-28T11:56:52.213Z"
+tags: ["tech", "react"]
 ---
 
 My goal was to have 12 posts by the end of the year (a post a month) but obviously I haven't been posting in a long time :sweat_smile:. But there's still some time left, and I'll make up for it in the remaining months!

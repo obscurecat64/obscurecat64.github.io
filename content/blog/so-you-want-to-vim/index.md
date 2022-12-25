@@ -1,6 +1,7 @@
 ---
 title: So you want to Vim
 date: "2022-10-13T13:39:09.915Z"
+tags: ["tech", "vim"]
 ---
 
 It's less than 3 months to the end of the year and I'm still a *couple* of articles off my goal :sweat_smile:. I have a few things in mind that I want to write about but it hasn't been easy to force myself to write. Writing is freaking hard :sleepy:!!
