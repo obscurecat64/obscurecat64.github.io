@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Wai Thoughts RSS Feed]]></title><description><![CDATA[My blog on tech and life]]></description><link>https://www.wai-thoughts.com</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 10 Oct 2024 14:47:22 GMT</lastBuildDate><item><title><![CDATA[My SCSM 2022 half marathon experience]]></title><description><![CDATA[Merry Christmas! I just wanted to write a quick (overdue) post about this race I participated in earlier this month! It was the Standard…]]></description><link>https://www.wai-thoughts.com/my-half-marathon-experience/</link><guid isPermaLink="false">https://www.wai-thoughts.com/my-half-marathon-experience/</guid><pubDate>Sun, 25 Dec 2022 15:02:00 GMT</pubDate><content:encoded>&lt;p&gt;Merry Christmas!&lt;/p&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Wai Thoughts RSS Feed]]></title><description><![CDATA[My blog on tech and life]]></description><link>https://www.wai-thoughts.com</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 10 Oct 2024 14:59:58 GMT</lastBuildDate><item><title><![CDATA[My SCSM 2022 half marathon experience]]></title><description><![CDATA[Merry Christmas! I just wanted to write a quick (overdue) post about this race I participated in earlier this month! It was the Standard…]]></description><link>https://www.wai-thoughts.com/my-half-marathon-experience/</link><guid isPermaLink="false">https://www.wai-thoughts.com/my-half-marathon-experience/</guid><pubDate>Sun, 25 Dec 2022 15:02:00 GMT</pubDate><content:encoded>&lt;p&gt;Merry Christmas!&lt;/p&gt;
 &lt;p&gt;I just wanted to write a quick (overdue) post about this race I participated in earlier this month! It was the Standard Chartered Singapore Marathon (quite a mouthful 😅) or SCSM for short. I participated in the half marathon category and completed it in about 2 hours and 14 mins (net time) which was slightly faster than what I was aiming for.&lt;/p&gt;
 &lt;p&gt;This is not my first half-marathon; I’ve particpated in 3 other half-marathons (and 3 other marathons!) a few years back (before Covid). Due to the pandemic, if I’m not wrong there weren’t any mass races for at least 2 years, so it’s really nice to see them coming back in full force again. I’m definitely no longer as “fit” as I was back then (I’m blaming it on the pandemic 😂) but I still think my timing was a good one!&lt;/p&gt;
 &lt;p&gt;I signed up for the half-marathon relatively late, and I didn’t have a lot of time to prepare for the race. I think I had 3 months or so, and I initially planned to complete 14 training runs, gradually building up to 17 km. But that didn’t work out at all 😂, I came down with Covid and almost immediately after that I went back for reservist training. Overall, instead of 14 runs I still did 8 runs in total, with 3 runs being 10 km and more. I still did the 17 km, just that it wasn’t a gradual build up 😅. Pace wise I decided to go at a very comfortable pace for myself at around 6:20 min/km - 6:30 min/km. I didn’t really push myself out of my comfort zone in this area; my goal was just to complete a half-marathon again and get back into the game.&lt;/p&gt;
@@ -10,7 +10,7 @@
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/obscurecat64.github.io/static/424135671f7c28e4ec7e2e16c7d3b593/5608a/splits.jpg&quot;
+    href=&quot;/static/424135671f7c28e4ec7e2e16c7d3b593/5608a/splits.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -23,10 +23,10 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;splits&quot;
         title=&quot;splits&quot;
-        src=&quot;/obscurecat64.github.io/static/424135671f7c28e4ec7e2e16c7d3b593/5608a/splits.jpg&quot;
-        srcset=&quot;/obscurecat64.github.io/static/424135671f7c28e4ec7e2e16c7d3b593/ff44c/splits.jpg 158w,
-/obscurecat64.github.io/static/424135671f7c28e4ec7e2e16c7d3b593/a6688/splits.jpg 315w,
-/obscurecat64.github.io/static/424135671f7c28e4ec7e2e16c7d3b593/5608a/splits.jpg 591w&quot;
+        src=&quot;/static/424135671f7c28e4ec7e2e16c7d3b593/5608a/splits.jpg&quot;
+        srcset=&quot;/static/424135671f7c28e4ec7e2e16c7d3b593/ff44c/splits.jpg 158w,
+/static/424135671f7c28e4ec7e2e16c7d3b593/a6688/splits.jpg 315w,
+/static/424135671f7c28e4ec7e2e16c7d3b593/5608a/splits.jpg 591w&quot;
         sizes=&quot;(max-width: 591px) 100vw, 591px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -41,7 +41,7 @@
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/obscurecat64.github.io/static/6681c69f25fe48e5def4eb4a707d9c3a/eea4a/me-running.jpg&quot;
+    href=&quot;/static/6681c69f25fe48e5def4eb4a707d9c3a/eea4a/me-running.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -54,13 +54,13 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;A photo of me during the race&quot;
         title=&quot;A photo of me during the race&quot;
-        src=&quot;/obscurecat64.github.io/static/6681c69f25fe48e5def4eb4a707d9c3a/828fb/me-running.jpg&quot;
-        srcset=&quot;/obscurecat64.github.io/static/6681c69f25fe48e5def4eb4a707d9c3a/ff44c/me-running.jpg 158w,
-/obscurecat64.github.io/static/6681c69f25fe48e5def4eb4a707d9c3a/a6688/me-running.jpg 315w,
-/obscurecat64.github.io/static/6681c69f25fe48e5def4eb4a707d9c3a/828fb/me-running.jpg 630w,
-/obscurecat64.github.io/static/6681c69f25fe48e5def4eb4a707d9c3a/0ede0/me-running.jpg 945w,
-/obscurecat64.github.io/static/6681c69f25fe48e5def4eb4a707d9c3a/3ac88/me-running.jpg 1260w,
-/obscurecat64.github.io/static/6681c69f25fe48e5def4eb4a707d9c3a/eea4a/me-running.jpg 1280w&quot;
+        src=&quot;/static/6681c69f25fe48e5def4eb4a707d9c3a/828fb/me-running.jpg&quot;
+        srcset=&quot;/static/6681c69f25fe48e5def4eb4a707d9c3a/ff44c/me-running.jpg 158w,
+/static/6681c69f25fe48e5def4eb4a707d9c3a/a6688/me-running.jpg 315w,
+/static/6681c69f25fe48e5def4eb4a707d9c3a/828fb/me-running.jpg 630w,
+/static/6681c69f25fe48e5def4eb4a707d9c3a/0ede0/me-running.jpg 945w,
+/static/6681c69f25fe48e5def4eb4a707d9c3a/3ac88/me-running.jpg 1260w,
+/static/6681c69f25fe48e5def4eb4a707d9c3a/eea4a/me-running.jpg 1280w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -77,7 +77,7 @@
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/obscurecat64.github.io/static/b0f20d299b91838001218943e74a5b5e/066f9/concert-memorabilia.jpg&quot;
+    href=&quot;/static/b0f20d299b91838001218943e74a5b5e/066f9/concert-memorabilia.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -90,10 +90,10 @@
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;concert memorabilia&quot;
         title=&quot;concert memorabilia&quot;
-        src=&quot;/obscurecat64.github.io/static/b0f20d299b91838001218943e74a5b5e/066f9/concert-memorabilia.jpg&quot;
-        srcset=&quot;/obscurecat64.github.io/static/b0f20d299b91838001218943e74a5b5e/ff44c/concert-memorabilia.jpg 158w,
-/obscurecat64.github.io/static/b0f20d299b91838001218943e74a5b5e/a6688/concert-memorabilia.jpg 315w,
-/obscurecat64.github.io/static/b0f20d299b91838001218943e74a5b5e/066f9/concert-memorabilia.jpg 400w&quot;
+        src=&quot;/static/b0f20d299b91838001218943e74a5b5e/066f9/concert-memorabilia.jpg&quot;
+        srcset=&quot;/static/b0f20d299b91838001218943e74a5b5e/ff44c/concert-memorabilia.jpg 158w,
+/static/b0f20d299b91838001218943e74a5b5e/a6688/concert-memorabilia.jpg 315w,
+/static/b0f20d299b91838001218943e74a5b5e/066f9/concert-memorabilia.jpg 400w&quot;
         sizes=&quot;(max-width: 400px) 100vw, 400px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -108,7 +108,7 @@ Concert memorabilia I got (paid for)!&lt;/p&gt;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/obscurecat64.github.io/static/024a5b53e08d897fae71e5514294e6d9/eea4a/stage.jpg&quot;
+    href=&quot;/static/024a5b53e08d897fae71e5514294e6d9/eea4a/stage.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -121,13 +121,13 @@ Concert memorabilia I got (paid for)!&lt;/p&gt;
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;stage from my point of view&quot;
         title=&quot;stage from my point of view&quot;
-        src=&quot;/obscurecat64.github.io/static/024a5b53e08d897fae71e5514294e6d9/828fb/stage.jpg&quot;
-        srcset=&quot;/obscurecat64.github.io/static/024a5b53e08d897fae71e5514294e6d9/ff44c/stage.jpg 158w,
-/obscurecat64.github.io/static/024a5b53e08d897fae71e5514294e6d9/a6688/stage.jpg 315w,
-/obscurecat64.github.io/static/024a5b53e08d897fae71e5514294e6d9/828fb/stage.jpg 630w,
-/obscurecat64.github.io/static/024a5b53e08d897fae71e5514294e6d9/0ede0/stage.jpg 945w,
-/obscurecat64.github.io/static/024a5b53e08d897fae71e5514294e6d9/3ac88/stage.jpg 1260w,
-/obscurecat64.github.io/static/024a5b53e08d897fae71e5514294e6d9/eea4a/stage.jpg 1280w&quot;
+        src=&quot;/static/024a5b53e08d897fae71e5514294e6d9/828fb/stage.jpg&quot;
+        srcset=&quot;/static/024a5b53e08d897fae71e5514294e6d9/ff44c/stage.jpg 158w,
+/static/024a5b53e08d897fae71e5514294e6d9/a6688/stage.jpg 315w,
+/static/024a5b53e08d897fae71e5514294e6d9/828fb/stage.jpg 630w,
+/static/024a5b53e08d897fae71e5514294e6d9/0ede0/stage.jpg 945w,
+/static/024a5b53e08d897fae71e5514294e6d9/3ac88/stage.jpg 1260w,
+/static/024a5b53e08d897fae71e5514294e6d9/eea4a/stage.jpg 1280w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -142,7 +142,7 @@ Where I was standing!&lt;/p&gt;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/obscurecat64.github.io/static/f40f25433cb777278bee16152902bcfe/6a068/axl-rose.jpg&quot;
+    href=&quot;/static/f40f25433cb777278bee16152902bcfe/6a068/axl-rose.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -155,12 +155,12 @@ Where I was standing!&lt;/p&gt;
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Axl rose&quot;
         title=&quot;Axl rose&quot;
-        src=&quot;/obscurecat64.github.io/static/f40f25433cb777278bee16152902bcfe/828fb/axl-rose.jpg&quot;
-        srcset=&quot;/obscurecat64.github.io/static/f40f25433cb777278bee16152902bcfe/ff44c/axl-rose.jpg 158w,
-/obscurecat64.github.io/static/f40f25433cb777278bee16152902bcfe/a6688/axl-rose.jpg 315w,
-/obscurecat64.github.io/static/f40f25433cb777278bee16152902bcfe/828fb/axl-rose.jpg 630w,
-/obscurecat64.github.io/static/f40f25433cb777278bee16152902bcfe/0ede0/axl-rose.jpg 945w,
-/obscurecat64.github.io/static/f40f25433cb777278bee16152902bcfe/6a068/axl-rose.jpg 960w&quot;
+        src=&quot;/static/f40f25433cb777278bee16152902bcfe/828fb/axl-rose.jpg&quot;
+        srcset=&quot;/static/f40f25433cb777278bee16152902bcfe/ff44c/axl-rose.jpg 158w,
+/static/f40f25433cb777278bee16152902bcfe/a6688/axl-rose.jpg 315w,
+/static/f40f25433cb777278bee16152902bcfe/828fb/axl-rose.jpg 630w,
+/static/f40f25433cb777278bee16152902bcfe/0ede0/axl-rose.jpg 945w,
+/static/f40f25433cb777278bee16152902bcfe/6a068/axl-rose.jpg 960w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -169,7 +169,7 @@ Where I was standing!&lt;/p&gt;
   &lt;/a&gt;
     &lt;/span&gt;
 Axl Rose on stage (doesn’t he kinda look like Elon Musk? 😂)&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/obscurecat64.github.io/0237642e21fb11e24d07dc7a17d1846d/concert-end.gif&quot; alt=&quot;end of concert&quot;&gt;
+&lt;p&gt;&lt;img src=&quot;/0237642e21fb11e24d07dc7a17d1846d/concert-end.gif&quot; alt=&quot;end of concert&quot;&gt;
 Thank you for the show!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[So you want to Vim]]></title><description><![CDATA[It’s less than 3 months to the end of the year and I’m still a couple of articles off my goal 😅. I have a few things in mind that I want to…]]></description><link>https://www.wai-thoughts.com/so-you-want-to-vim/</link><guid isPermaLink="false">https://www.wai-thoughts.com/so-you-want-to-vim/</guid><pubDate>Thu, 13 Oct 2022 13:39:09 GMT</pubDate><content:encoded>&lt;p&gt;It’s less than 3 months to the end of the year and I’m still a &lt;em&gt;couple&lt;/em&gt; of articles off my goal 😅. I have a few things in mind that I want to write about but it hasn’t been easy to force myself to write. Writing is freaking hard 😪!!&lt;/p&gt;
 &lt;p&gt;For this post I want to share about something that I myself use quite a lot: Vim! I’ve always wanted to write about Vim, and since I’ve been using it as my daily editor for a year now I thought I’d be at least somewhat qualified 😝.&lt;/p&gt;
 &lt;p&gt;Before I begin, there’s a very important question that needs to be answered: &lt;strong&gt;Why even use Vim?&lt;/strong&gt;&lt;/p&gt;
@@ -189,7 +189,7 @@ Thank you for the show!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/obscurecat64.github.io/static/d66527753ab9d84787abe2d09a1861ed/d9ed5/vimtutor.png&quot;
+    href=&quot;/static/d66527753ab9d84787abe2d09a1861ed/d9ed5/vimtutor.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -202,13 +202,13 @@ Thank you for the show!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;vimtutor&quot;
         title=&quot;vimtutor&quot;
-        src=&quot;/obscurecat64.github.io/static/d66527753ab9d84787abe2d09a1861ed/f058b/vimtutor.png&quot;
-        srcset=&quot;/obscurecat64.github.io/static/d66527753ab9d84787abe2d09a1861ed/c26ae/vimtutor.png 158w,
-/obscurecat64.github.io/static/d66527753ab9d84787abe2d09a1861ed/6bdcf/vimtutor.png 315w,
-/obscurecat64.github.io/static/d66527753ab9d84787abe2d09a1861ed/f058b/vimtutor.png 630w,
-/obscurecat64.github.io/static/d66527753ab9d84787abe2d09a1861ed/40601/vimtutor.png 945w,
-/obscurecat64.github.io/static/d66527753ab9d84787abe2d09a1861ed/78612/vimtutor.png 1260w,
-/obscurecat64.github.io/static/d66527753ab9d84787abe2d09a1861ed/d9ed5/vimtutor.png 2880w&quot;
+        src=&quot;/static/d66527753ab9d84787abe2d09a1861ed/f058b/vimtutor.png&quot;
+        srcset=&quot;/static/d66527753ab9d84787abe2d09a1861ed/c26ae/vimtutor.png 158w,
+/static/d66527753ab9d84787abe2d09a1861ed/6bdcf/vimtutor.png 315w,
+/static/d66527753ab9d84787abe2d09a1861ed/f058b/vimtutor.png 630w,
+/static/d66527753ab9d84787abe2d09a1861ed/40601/vimtutor.png 945w,
+/static/d66527753ab9d84787abe2d09a1861ed/78612/vimtutor.png 1260w,
+/static/d66527753ab9d84787abe2d09a1861ed/d9ed5/vimtutor.png 2880w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -225,7 +225,7 @@ Thank you for the show!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/obscurecat64.github.io/static/7f7c787f61a7d17fdd504e2812521044/08a84/vim-keybindings.png&quot;
+    href=&quot;/static/7f7c787f61a7d17fdd504e2812521044/08a84/vim-keybindings.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -238,10 +238,10 @@ Thank you for the show!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Vim keybindings meme&quot;
         title=&quot;Vim keybindings meme&quot;
-        src=&quot;/obscurecat64.github.io/static/7f7c787f61a7d17fdd504e2812521044/08a84/vim-keybindings.png&quot;
-        srcset=&quot;/obscurecat64.github.io/static/7f7c787f61a7d17fdd504e2812521044/c26ae/vim-keybindings.png 158w,
-/obscurecat64.github.io/static/7f7c787f61a7d17fdd504e2812521044/6bdcf/vim-keybindings.png 315w,
-/obscurecat64.github.io/static/7f7c787f61a7d17fdd504e2812521044/08a84/vim-keybindings.png 460w&quot;
+        src=&quot;/static/7f7c787f61a7d17fdd504e2812521044/08a84/vim-keybindings.png&quot;
+        srcset=&quot;/static/7f7c787f61a7d17fdd504e2812521044/c26ae/vim-keybindings.png 158w,
+/static/7f7c787f61a7d17fdd504e2812521044/6bdcf/vim-keybindings.png 315w,
+/static/7f7c787f61a7d17fdd504e2812521044/08a84/vim-keybindings.png 460w&quot;
         sizes=&quot;(max-width: 460px) 100vw, 460px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -259,7 +259,7 @@ Thank you for the show!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/obscurecat64.github.io/static/a0ea2c57b23a90a028103a18f439ba20/d9ed5/split-windows.png&quot;
+    href=&quot;/static/a0ea2c57b23a90a028103a18f439ba20/d9ed5/split-windows.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -272,13 +272,13 @@ Thank you for the show!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;Vim split windows&quot;
         title=&quot;Vim split windows&quot;
-        src=&quot;/obscurecat64.github.io/static/a0ea2c57b23a90a028103a18f439ba20/f058b/split-windows.png&quot;
-        srcset=&quot;/obscurecat64.github.io/static/a0ea2c57b23a90a028103a18f439ba20/c26ae/split-windows.png 158w,
-/obscurecat64.github.io/static/a0ea2c57b23a90a028103a18f439ba20/6bdcf/split-windows.png 315w,
-/obscurecat64.github.io/static/a0ea2c57b23a90a028103a18f439ba20/f058b/split-windows.png 630w,
-/obscurecat64.github.io/static/a0ea2c57b23a90a028103a18f439ba20/40601/split-windows.png 945w,
-/obscurecat64.github.io/static/a0ea2c57b23a90a028103a18f439ba20/78612/split-windows.png 1260w,
-/obscurecat64.github.io/static/a0ea2c57b23a90a028103a18f439ba20/d9ed5/split-windows.png 2880w&quot;
+        src=&quot;/static/a0ea2c57b23a90a028103a18f439ba20/f058b/split-windows.png&quot;
+        srcset=&quot;/static/a0ea2c57b23a90a028103a18f439ba20/c26ae/split-windows.png 158w,
+/static/a0ea2c57b23a90a028103a18f439ba20/6bdcf/split-windows.png 315w,
+/static/a0ea2c57b23a90a028103a18f439ba20/f058b/split-windows.png 630w,
+/static/a0ea2c57b23a90a028103a18f439ba20/40601/split-windows.png 945w,
+/static/a0ea2c57b23a90a028103a18f439ba20/78612/split-windows.png 1260w,
+/static/a0ea2c57b23a90a028103a18f439ba20/d9ed5/split-windows.png 2880w&quot;
         sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
@@ -297,7 +297,7 @@ Thank you for the show!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/obscurecat64.github.io/static/2d21c43938ed40a1a5e8bcc4b6baa730/b4294/editor-learning-curves.jpg&quot;
+    href=&quot;/static/2d21c43938ed40a1a5e8bcc4b6baa730/b4294/editor-learning-curves.jpg&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
@@ -310,10 +310,10 @@ Thank you for the show!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[
         class=&quot;gatsby-resp-image-image&quot;
         alt=&quot;editor learning curve&quot;
         title=&quot;editor learning curve&quot;
-        src=&quot;/obscurecat64.github.io/static/2d21c43938ed40a1a5e8bcc4b6baa730/b4294/editor-learning-curves.jpg&quot;
-        srcset=&quot;/obscurecat64.github.io/static/2d21c43938ed40a1a5e8bcc4b6baa730/ff44c/editor-learning-curves.jpg 158w,
-/obscurecat64.github.io/static/2d21c43938ed40a1a5e8bcc4b6baa730/a6688/editor-learning-curves.jpg 315w,
-/obscurecat64.github.io/static/2d21c43938ed40a1a5e8bcc4b6baa730/b4294/editor-learning-curves.jpg 600w&quot;
+        src=&quot;/static/2d21c43938ed40a1a5e8bcc4b6baa730/b4294/editor-learning-curves.jpg&quot;
+        srcset=&quot;/static/2d21c43938ed40a1a5e8bcc4b6baa730/ff44c/editor-learning-curves.jpg 158w,
+/static/2d21c43938ed40a1a5e8bcc4b6baa730/a6688/editor-learning-curves.jpg 315w,
+/static/2d21c43938ed40a1a5e8bcc4b6baa730/b4294/editor-learning-curves.jpg 600w&quot;
         sizes=&quot;(max-width: 600px) 100vw, 600px&quot;
         style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
         loading=&quot;lazy&quot;
