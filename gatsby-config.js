@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: "/obscurecat64.github.io",
   siteMetadata: {
     title: `Wai Thoughts`,
     author: {
